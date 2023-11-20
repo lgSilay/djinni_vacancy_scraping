@@ -9,4 +9,5 @@ STACK_LIST = ["Python", "Django", "DRF", "MySQL", "Mongo", "Redis",
               "Kafka", "Streamlit", "SQLAlchemy", "Pydantic", "Kubernetes", "Linux",
               "Angular", "React", "Vue", "NoSQL"]
 
+# Set up your language
 LANGUAGE = "Python"
